@@ -9,7 +9,7 @@ int main() {
 
 	cout << "Enter first number: ";
 	cin >> num1;
-
+	
 	cout << "Enter Second Number: ";
 	cin >> num2;
 
